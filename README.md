@@ -1,2 +1,2 @@
 # github-class
- mlp github class
+ modern language programming - github class
